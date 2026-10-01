@@ -1,0 +1,6 @@
+com\taskbridge\TB\services\ProjectServiceIntegrationTest.class
+com\taskbridge\TB\services\TeamServiceTest.class
+com\taskbridge\TB\WebIntegrationTest.class
+com\taskbridge\TB\services\ProjectServiceTest.class
+com\taskbridge\TB\TbApplicationTests.class
+com\taskbridge\TB\services\StoryServiceTest.class
